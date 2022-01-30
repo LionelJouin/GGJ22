@@ -10,7 +10,7 @@ Pirate Bêêêh is a third-person shooter, where you play a pirate sheep and pic
 
 ## Video
 
-
+[![GamePlay](https://img.youtube.com/vi/tW13VBy88QM/0.jpg)](https://www.youtube.com/watch?v=tW13VBy88QM)
 
 ## Requirements
 
