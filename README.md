@@ -4,7 +4,7 @@ Global Game Jam 2022 - Duality
 
 [Itch.io](https://pandamnesik.itch.io/pirate-beeeh)
 
-[Global Game Jam](https://globalgamejam.org/2021/games/pirate-bay-9)
+[Global Game Jam](https://globalgamejam.org/2022/games/pirate-b%C3%AA%C3%AA%C3%AAh-4)
 
 Pirate Bêêêh is a third-person shooter, where you play a pirate sheep and pick up wool ball to shoot your opponent with ! 
 
