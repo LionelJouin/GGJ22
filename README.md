@@ -28,7 +28,7 @@ Get the [latest version](https://github.com/LionelJouin/GGJ22/releases) from the
 
 * **Lionel Jouin** - DEV - [LionelJouin](https://github.com/LionelJouin)
 * **Thomas Foucault** - DEV - [Empheon](https://github.com/Empheon)
-* **Valentin L.** - DEV - [valentin4311](https://github.com/valentin4311)
+* **Valentin** - DEV - [valentin4311](https://github.com/valentin4311)
 * **Alexis S.** - PM/WEB - [Wolfens](https://github.com/Wolfens)
 * **Perrine P.** - 2D/3D/ANIM - [pandamnesik](https://github.com/pandamnesik)
 * **Eitan A.** - GD - [eitan91](https://github.com/eitan91)
